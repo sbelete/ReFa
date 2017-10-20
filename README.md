@@ -1,10 +1,10 @@
-# cs0320 Term Project
+# Term Project
 
 **Team Members:** Abhishek Sharma, Paul Touma, Dalton Thuku, Ji Ryoo, Simon Belete
 
 **Project Idea:** A fake news detector browser extension
 
-**Mentor TA:** _Put your mentor TA's name and email here once you're assigned one!_
+**Mentor TA:** Lindsey Baab
 
 ## Project Requirements
 Project Idea: 
