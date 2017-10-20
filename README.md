@@ -49,8 +49,11 @@ Use IBM’s Watson to process the language in the articles and build a database
 The articles would be an even number of “valid” and “fake” news in a variety of different subjects
 
 
-## Project Design Presentation
-_A link to your design presentation/document will go here!_
-
 ## How to Build and Run
-_A necessary part of any README!_
+build javacode:
+mvn package 
+add watson keys from IBM bluemix natural langage proccess to watson_account csv [account, password]
+./run
+
+then load ReFa as a chrome extentions 
+
